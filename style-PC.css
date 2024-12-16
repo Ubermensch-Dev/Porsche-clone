@@ -358,7 +358,7 @@
 }
 
 footer {
-    height: 120vh;
+    height: auto;
     width: 100vw;
     background-color: #0e0d12;
     color: white;
